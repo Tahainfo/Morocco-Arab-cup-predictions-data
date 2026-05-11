@@ -133,5 +133,5 @@ This demonstrates that principled probabilistic modeling — even with minimal d
 
 ## Author
 
-**Ismaili Taha** | Data Science Enthusiast  
-[LinkedIn](https://www.linkedin.com) · [GitHub](https://www.github.com)
+**Ismaili Taha** | Data Scientist  
+[LinkedIn] (https://www.linkedin.com/in/taha-ismaili-datascientistaiengineer) · [GitHub]((https://github.com/Tahainfo)
